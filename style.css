@@ -86,7 +86,7 @@ nav li {
     position: relative;
 }
 img {
-    filter: brightness(0%);
+    /*filter: brightness(0%);*/
 }
 img:hover {
     transform: scale(1.05);
