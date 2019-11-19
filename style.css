@@ -27,8 +27,7 @@ h1.intro {
 p {
     text-align: left;
     margin-left: 30px;
-    min-width: 470px;
-    width: 90%;
+    width: 80%;
 }
 
 body {
@@ -105,5 +104,8 @@ img:hover {
     img {
         margin-top: 10px;
         height: 15px;
+    }
+    p {
+        min-width: 300px;
     }
 }
